@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Karan Vyas</h1>
-<h3 align="center">A pre-final-year Computer Science & Engineering student at VIT Vellore (Graduating in July 2026).</h3>
+<h3 align="center">A pre-final-year Information Technology student at VIT Vellore (Graduating in July 2026).</h3>
 <h4 align="center">I’m passionate about building impactful solutions that merge <i>innovation</i> with <i>scalability</i>, and I thrive on tackling challenges with a creative, problem-solving mindset.</h4>
 
 ---
